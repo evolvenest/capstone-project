@@ -1,0 +1,38 @@
+body{
+    background-color: #F2EDD1;
+}
+.dnyanu{
+    color: #280A3E;
+    font-size: 3.5rem;
+    
+
+}
+.text{
+    
+    color: #689B8A;
+    font-weight: bolder;
+}
+.canva{
+   max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+
+}
+.black{
+    margin-left: 400px;
+    color: #280A3E;
+    font-size: 2.7rem;
+}
+.elephant{
+   color: #280A3E;  
+    font-weight: bold;
+}
+.card-body{
+    color: #6A0000;
+    font-weight: bold;
+}
+.apple{
+    color: #6A0000;
+    font-weight: bold;
+}
